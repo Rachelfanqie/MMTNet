@@ -48,7 +48,7 @@ git clone https://github.com/Rachelfanqie/MMTNet.git
 cd MMTNet
 ```
 
-- Download [model_best.pth](), put it under a directory, e.g., `train/logs/model_best.pth`.
+- Download [model_best.pth](https://drive.google.com/file/d/1W9lt4tqw0Y7FjhHJrm5uO9CiaxpgMv-m/view?usp=drive_link), put it under a directory, e.g., `train/logs/model_best.pth`.
 
 ## ‍💻 Training
 
