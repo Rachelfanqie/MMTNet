@@ -42,7 +42,7 @@ We propose a multi-input multi-scale encoder-decoder network based on the Transf
 
 ### Installation
 
-- Clone our [repo](https://github.com/Rachelfanqie/MTRBlur) from GitHub:
+- Clone our [repo](https://github.com/Rachelfanqie/MMTNet) from GitHub:
 ```shell
 git clone https://github.com/Rachelfanqie/MMTNet.git
 cd MMTNet
